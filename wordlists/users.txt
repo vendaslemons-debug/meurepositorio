@@ -1,1 +1,8 @@
-
+admin
+administrator
+root
+user
+msfadmin
+guest
+suporte
+teste
