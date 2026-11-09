@@ -94,4 +94,4 @@ Para proteger sistemas contra os ataques demonstrados acima, recomendam-se as se
 A realização deste desafio permitiu compreender na prática como funcionam os ataques de adivinhação de credenciais em diferentes camadas (rede e aplicação). Ficou evidente a velocidade com que ferramentas automatizadas conseguem comprometer contas que utilizam credenciais fracas ou padrões de fábrica, reforçando a importância vital de práticas de *hardening* e conscientização corporativa sobre segurança de senhas.
 
 ---
-🛠️ Desenvolvido por [Seu Nome](https://github.com) durante o Bootcamp na DIO!# meurepositorio
+🛠️ Desenvolvido por [vendas Lemons](https://github.com) durante o Bootcamp na DIO!# meurepositorio
